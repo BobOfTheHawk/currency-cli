@@ -9,7 +9,7 @@ import (
 )
 
 // apiKey should be replaced with your actual API key from exchangerate-api.com
-const apiKey = "04f1d4f1e6e887bc8411157c"
+const apiKey = "API KEY WILL BE HERE"
 
 // ApiResponse matches the structure of the JSON response from the API.
 type ApiResponse struct {
